@@ -29,6 +29,7 @@ namespace Lab9.Green
 
         public override string ToString()
         {
+            // здесь вписываем вывод ответа
             return null;
         }
     }
