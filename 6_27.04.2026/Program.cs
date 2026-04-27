@@ -105,12 +105,6 @@ namespace ConsoleApp5
 
              File.Delete(filePath1);*/
         }
-
-        private bool CompareMovies(Movie m1, Movie m2)
-        {
-            if (m1 == m2) return true;
-            return false;
-        }
     }
 
     public class Movie
